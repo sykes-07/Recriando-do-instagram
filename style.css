@@ -36,3 +36,38 @@
     max-width: 200px;
     max-height: 150px;
 }
+
+
+.username{
+   font-weight: 300;
+   font-size: 28px; 
+}
+
+.button-edit{
+    color: black !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    border-color: #dae1e7 !important;
+
+}
+
+.btn{
+    padding: .100rem .50rem !important;
+}
+
+.profile-datas{
+    font-size: 16px;
+}
+
+.name{
+    font-size: 16px;
+    font-display: inline;
+    font-weight: 600 !important;
+}
+.espaco{
+    line-height: 40%;
+}
+
+.profile-desc{
+    font-size: 16px;
+}
