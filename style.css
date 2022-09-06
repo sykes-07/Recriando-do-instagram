@@ -27,3 +27,12 @@
     max-height: 25px;
 
 }
+
+.img-profile {
+    border-radius: 100%;
+    -o-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    max-width: 200px;
+    max-height: 150px;
+}
